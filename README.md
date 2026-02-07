@@ -1,7 +1,6 @@
 # 🤖 Litter Robot Card
 
 [![HACS Custom](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/integration)
-[![GitHub Release](https://img.shields.io/github/v/release/DevelopmentCats/litter-robot-card?include_prereleases)](https://github.com/DevelopmentCats/litter-robot-card/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A custom Home Assistant Lovelace card for the Litter Robot integration with animations and visual status indicators.
@@ -128,11 +127,3 @@ night_light_entity: light.poop_goblin_night_light
 ## 📄 License
 
 MIT © [DevelopmentCats](https://github.com/DevelopmentCats)
-
----
-
-<p align="center">
-  <a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=DevelopmentCats&repository=litter-robot-card&category=plugin">
-    <img src="https://img.shields.io/badge/Add%20to%20HACS-blue?style=for-the-badge&logo=home-assistant" alt="Add to HACS">
-  </a>
-</p>
